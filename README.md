@@ -14,6 +14,8 @@ Diese App erhebt keine personenbezogenen Daten im klassischen Sinne. Die Nutzung
 Alle eingegebenen Texte, Bilder und Informationen werden ausschließlich lokal auf Ihrem Gerät mit SwiftData oder innerhalb Ihrer iCloud gespeichert.
 ##### Zugriff auf Kamera/Fotos: 
 Die App fordert nur dann Zugriff auf Ihre Kamera oder Fotogalerie, wenn Sie aktiv ein Bild in eine Notiz einfügen möchten. Es erfolgt kein automatischer Upload oder Zugriff.
+##### Zugriff auf Kontakte:
+Wenn Nutzer die Funktion My World Premium aktivieren, kann die App auf die im Gerät gespeicherten Apple Kontakte zugreifen. Dies erfolgt ausschließlich, um bestimmte Kontakte (z. B. für Geburtstags- oder Terminerinnerungen) in die App zu importieren. Die Daten werden nicht extern gespeichert, sondern verbleiben lokal auf dem Gerät oder – falls vom Nutzer gewünscht – in dessen persönlichem iCloud-Konto. Es erfolgt keine automatische Synchronisation oder Weitergabe an Dritte.
 ##### Benachrichtigungen: 
 Bei Nutzung von Erinnerungsfunktionen (z. B. Geburtstage oder Termine) fragt die App die Berechtigung an, lokale Push-Benachrichtigungen auf dem Gerät zu senden. Diese Nachrichten basieren ausschließlich auf Daten, die vom Nutzer eingegeben und lokal gespeichert werden.
 ##### Google Mobile Ads (AdMob): 
@@ -45,6 +47,8 @@ This App does not collect any personal data in the conventional sense. No accoun
 All text, images, and content entered by the user are stored locally using SwiftData or optionally in their own iCloud storage.
 ##### Camera/Photo Access: 
 The App requests access to the device's camera or photo gallery only when the user explicitly chooses to add an image to a note. No automatic upload or access occurs.
+##### Contact Access:
+If the user enables the My World Premium feature, the App may access Apple Contacts stored on the device. This is solely used to import selected contacts (e.g. for birthday or appointment reminders) into the App. The data remains entirely local or is stored in the user’s personal iCloud account if opted in. No automatic synchronization or sharing with third parties takes place.
 ##### Notifications: 
 If the user activates reminder features (e.g. birthdays or appointments), the App requests permission to send local push notifications on the device. These notifications are based solely on data entered and stored locally by the user.
 ##### Google Mobile Ads (AdMob): 
