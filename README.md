@@ -15,7 +15,7 @@ Alle eingegebenen Texte, Bilder und Informationen werden ausschließlich lokal a
 ##### Zugriff auf Kamera/Fotos: 
 Die App fordert nur dann Zugriff auf Ihre Kamera oder Fotogalerie, wenn Sie aktiv ein Bild in eine Notiz einfügen möchten. Es erfolgt kein automatischer Upload oder Zugriff.
 ##### Zugriff auf Kontakte:
-Wenn Nutzer die Funktion My World Premium aktivieren, kann die App auf die im Gerät gespeicherten Apple Kontakte zugreifen. Dies erfolgt ausschließlich, um bestimmte Kontakte in die App zu importieren. Die Daten werden nicht extern gespeichert, sondern verbleiben lokal auf dem Gerät oder – falls vom Nutzer gewünscht – in dessen persönlichem iCloud-Konto. Es erfolgt keine automatische Synchronisation oder Weitergabe an Dritte.
+Wenn Nutzer die Funktion My World Premium aktivieren, kann die App auf die im Gerät gespeicherten Apple Kontakte zugreifen. Dies erfolgt ausschließlich, um bestimmte Kontakte in die App zu importieren. Die Daten werden nicht extern gespeichert, sondern verbleiben lokal auf dem Gerät oder – falls vom Nutzer eingestellt – in dessen persönlichem iCloud-Konto.
 ##### Benachrichtigungen: 
 Bei Nutzung von Erinnerungsfunktionen (z. B. Geburtstage oder Termine) fragt die App die Berechtigung an, lokale Push-Benachrichtigungen auf dem Gerät zu senden. Diese Nachrichten basieren ausschließlich auf Daten, die vom Nutzer eingegeben und lokal gespeichert werden.
 ##### Google Mobile Ads (AdMob): 
@@ -48,7 +48,7 @@ All text, images, and content entered by the user are stored locally using Swift
 ##### Camera/Photo Access: 
 The App requests access to the device's camera or photo gallery only when the user explicitly chooses to add an image to a note. No automatic upload or access occurs.
 ##### Contact Access:
-If the user enables the My World Premium feature, the App may access Apple Contacts stored on the device. This is solely used to import selected contacts into the App. The data remains entirely local or is stored in the user’s personal iCloud account if opted in. No automatic synchronization or sharing with third parties takes place.
+If the user enables the My World Premium feature, the App may access Apple Contacts stored on the device. This is solely used to import selected contacts into the App. The data remains entirely local or is stored in the user’s personal iCloud account if opted in.
 ##### Notifications: 
 If the user activates reminder features (e.g. birthdays or appointments), the App requests permission to send local push notifications on the device. These notifications are based solely on data entered and stored locally by the user.
 ##### Google Mobile Ads (AdMob): 
