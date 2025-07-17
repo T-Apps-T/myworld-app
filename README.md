@@ -12,16 +12,19 @@ Entwickler: Julian Thumm E-Mail: my.world.app.by.thumm@gmail.com
 Diese App erhebt keine personenbezogenen Daten im klassischen Sinne. Die Nutzung erfolgt ohne Account und ohne externe Datenübermittlung.
 Notizeninhalte: Alle eingegebenen Texte, Bilder und Informationen werden ausschließlich lokal auf Ihrem Gerät mit SwiftData oder innerhalb Ihrer iCloud gespeichert.
 Zugriff auf Kamera/Fotos: Die App fordert nur dann Zugriff auf Ihre Kamera oder Fotogalerie, wenn Sie aktiv ein Bild in eine Notiz einfügen möchten. Es erfolgt kein automatischer Upload oder Zugriff.
-Keine Analyse oder Tracking: Die App verwendet keine Analyse-, Tracking- oder Drittanbieter-Dienste.
+Google Mobile Ads (AdMob): Diese App nutzt das Google Mobile Ads SDK zur Anzeige von Werbung. Dabei erhebt Google bestimmte technische und nutzungsbezogene Informationen, z. B.:
+- Geräteinformationen (z. B. Modell, Betriebssystem)
+- Werbekennung (IDFA)
+- Nutzungs- und Interaktionsdaten mit Anzeigen Diese Daten dienen ausschließlich zur Auslieferung und Messung von Werbung und werden durch Google verarbeitet. Die Inhalte Ihrer Notizen werden nicht von Google    erfasst oder verarbeitet.
 
 ### Datenweitergabe
-Es werden keine Daten an Dritte weitergegeben. Alle Inhalte verbleiben vollständig im Apple-Ökosystem und unter Ihrer Kontrolle.
+Es werden keine Daten an Dritte weitergegeben. Alle Inhalte verbleiben vollständig im Apple-Ökosystem und unter Ihrer Kontrolle. Technische Daten im Rahmen von Google Ads werden nach den Datenschutzrichtlinien von Google verarbeitet (mehr Informationen finden Sie hier: https://policies.google.com/technologies/ads?hl=de).
 
 ### Rechtsgrundlage
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. a DSGVO – auf Basis Ihrer freiwilligen Einwilligung beim Aktivieren entsprechender Funktionen (z. B. Kamerazugriff).
+Die Datenverarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), insbesondere bei Aktivierung bestimmter Funktionen wie Kamera-Zugriff oder der Anzeige personalisierter Werbung.
 
 ### Ihre Rechte
-Da keine externen personenbezogenen Daten verarbeitet werden, besteht kein Erfordernis zur Datenlöschung oder -auskunft gemäß DSGVO. Bei Fragen können Sie sich dennoch gern an die oben genannte Kontaktadresse wenden.
+Da keine personenbezogenen Inhalte verarbeitet oder gespeichert werden, bestehen keine Auskunfts- oder Löschpflichten gemäß DSGVO hinsichtlich Notizen. Für Werbedaten wenden Sie sich bitte an Google oder deaktivieren die personalisierte Werbung über die Geräte-Einstellungen.
 
 ## Privacy Policy
 
@@ -35,14 +38,17 @@ Developer: Julian Thumm Email: my.world.app.by.thumm@gmail.com
 This App does not collect any personal data in the conventional sense. No account or external transmission is required.
 Note content: All text, images, and content entered by the user are stored locally using SwiftData or optionally in their own iCloud storage.
 Camera/Photo Access: The App requests access to the device's camera or photo gallery only when the user explicitly chooses to add an image to a note. No automatic upload or access occurs.
-No Analytics or Tracking: The App does not use any analytics, tracking, or third-party services.
+Google Mobile Ads (AdMob): This App uses the Google Mobile Ads SDK to display advertisements. Google may collect technical and usage-related data including:
+- Device information (e.g. model, OS)
+- Advertising Identifier (IDFA)
+- Interaction and usage data These are used for ad delivery and measurement. No note content or user-generated input is collected by Google.
 
 ### Data Sharing
-No user data is transmitted to third parties. All information remains entirely within the Apple ecosystem and under your control.
+Note data remains private and is not transmitted externally. Advertising data is managed by Google in accordance with their privacy policies (details here: https://policies.google.com/technologies/ads).
 
 ### Legal Basis
-Data access is based on your consent (Article 6 (1)(a) GDPR) when activating specific features such as camera access.
+The App processes data under Article 6(1)(a) GDPR (consent), especially for features like camera access or personalized ads.
 
 ### Your Rights
-Since no external personal data is processed, there is no requirement for deletion or access requests under the GDPR. If you have any questions, feel free to contact us via the email above.
+As no personal content is processed externally, no access or deletion requests are required under GDPR for note data. For advertising-related data, you may refer to Google's privacy settings or disable ad personalization in your device preferences.
 
