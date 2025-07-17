@@ -12,6 +12,7 @@ Entwickler: Julian Thumm E-Mail: my.world.app.by.thumm@gmail.com
 Diese App erhebt keine personenbezogenen Daten im klassischen Sinne. Die Nutzung erfolgt ohne Account und ohne externe Datenübermittlung.
 Notizeninhalte: Alle eingegebenen Texte, Bilder und Informationen werden ausschließlich lokal auf Ihrem Gerät mit SwiftData oder innerhalb Ihrer iCloud gespeichert.
 Zugriff auf Kamera/Fotos: Die App fordert nur dann Zugriff auf Ihre Kamera oder Fotogalerie, wenn Sie aktiv ein Bild in eine Notiz einfügen möchten. Es erfolgt kein automatischer Upload oder Zugriff.
+Benachrichtigungen: Bei Nutzung von Erinnerungsfunktionen (z. B. Geburtstage oder Termine) fragt die App die Berechtigung an, lokale Push-Benachrichtigungen auf dem Gerät zu senden. Diese Nachrichten basieren ausschließlich auf Daten, die vom Nutzer eingegeben und lokal gespeichert werden.
 Google Mobile Ads (AdMob): Diese App nutzt das Google Mobile Ads SDK zur Anzeige von Werbung. Dabei erhebt Google bestimmte technische und nutzungsbezogene Informationen, z. B.:
 - Geräteinformationen (z. B. Modell, Betriebssystem)
 - Werbekennung (IDFA)
@@ -38,6 +39,7 @@ Developer: Julian Thumm Email: my.world.app.by.thumm@gmail.com
 This App does not collect any personal data in the conventional sense. No account or external transmission is required.
 Note content: All text, images, and content entered by the user are stored locally using SwiftData or optionally in their own iCloud storage.
 Camera/Photo Access: The App requests access to the device's camera or photo gallery only when the user explicitly chooses to add an image to a note. No automatic upload or access occurs.
+Notifications: If the user activates reminder features (e.g. birthdays or appointments), the App requests permission to send local push notifications on the device. These notifications are based solely on data entered and stored locally by the user.
 Google Mobile Ads (AdMob): This App uses the Google Mobile Ads SDK to display advertisements. Google may collect technical and usage-related data including:
 - Device information (e.g. model, OS)
 - Advertising Identifier (IDFA)
