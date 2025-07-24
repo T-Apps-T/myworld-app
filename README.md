@@ -46,11 +46,6 @@ The App requests access to the device's camera or photo gallery only when the us
 If the user enables the My World Premium feature, the App may access Apple Contacts stored on the device. This is solely used to import selected contacts into the App. The data remains entirely local or is stored in the user’s personal iCloud account if opted in.
 ##### Notifications: 
 If the user activates reminder features (e.g. birthdays or appointments), the App requests permission to send local push notifications on the device. These notifications are based solely on data entered and stored locally by the user.
-##### Google Mobile Ads (AdMob): 
-This App uses the Google Mobile Ads SDK to display advertisements. Google may collect technical and usage-related data including:
-- Device information (e.g. model, OS)
-- Advertising Identifier (IDFA)
-- Interaction and usage data These are used for ad delivery and measurement. No note content or user-generated input is collected by Google.
 
 ### Data Sharing
 Note data remains private and is not transmitted externally. Advertising data is managed by Google in accordance with their privacy policies (details here: https://policies.google.com/technologies/ads).
