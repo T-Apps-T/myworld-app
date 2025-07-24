@@ -18,11 +18,6 @@ Die App fordert nur dann Zugriff auf Ihre Kamera oder Fotogalerie, wenn Sie akti
 Wenn Nutzer die Funktion My World Premium aktivieren, kann die App auf die im Gerät gespeicherten Apple Kontakte zugreifen. Dies erfolgt ausschließlich, um bestimmte Kontakte in die App zu importieren. Die Daten werden nicht extern gespeichert, sondern verbleiben lokal auf dem Gerät oder – falls vom Nutzer eingestellt – in dessen persönlichem iCloud-Konto.
 ##### Benachrichtigungen: 
 Bei Nutzung von Erinnerungsfunktionen (z. B. Geburtstage oder Termine) fragt die App die Berechtigung an, lokale Push-Benachrichtigungen auf dem Gerät zu senden. Diese Nachrichten basieren ausschließlich auf Daten, die vom Nutzer eingegeben und lokal gespeichert werden.
-##### Google Mobile Ads (AdMob): 
-Diese App nutzt das Google Mobile Ads SDK zur Anzeige von Werbung. Dabei erhebt Google bestimmte technische und nutzungsbezogene Informationen, z. B.:
-- Geräteinformationen (z. B. Modell, Betriebssystem)
-- Werbekennung (IDFA)
-- Nutzungs- und Interaktionsdaten mit Anzeigen Diese Daten dienen ausschließlich zur Auslieferung und Messung von Werbung und werden durch Google verarbeitet. Die Inhalte Ihrer Notizen werden nicht von Google    erfasst oder verarbeitet.
 
 ### Datenweitergabe
 Es werden keine Daten an Dritte weitergegeben. Alle Inhalte verbleiben vollständig im Apple-Ökosystem und unter Ihrer Kontrolle. Technische Daten im Rahmen von Google Ads werden nach den Datenschutzrichtlinien von Google verarbeitet (mehr Informationen finden Sie hier: https://policies.google.com/technologies/ads?hl=de).
